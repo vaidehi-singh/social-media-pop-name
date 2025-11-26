@@ -1,0 +1,43 @@
+/* Background colors and font css*/
+.bg-black{
+    background-color: black;
+}
+.bg-darkgrey{
+    background-color: rgb(44, 44, 44);
+}
+.color{
+    color: white;
+}
+
+/* Flex */
+.flex-col{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.flex-row{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+.justify-center{
+    justify-content: center;
+}
+.justify-space-bet{
+    justify-content: space-between;
+}
+
+/* Text Decoration */
+.text-decor{
+    text-decoration: none;
+}
+
+/* Cursor */
+.cursor{
+    cursor: pointer;
+}
+
+/* Image CSS */
+.invert{
+    filter: invert(1);
+}
